@@ -1300,6 +1300,24 @@ Dart:
   codemirror_mode: dart
   codemirror_mime_type: application/dart
   language_id: 87
+DataFlex:
+  type: programing
+  color: "#e64812"
+  extensions:
+  - ".wo" 
+  - ".pkg" 
+  - ".inc" 
+  - ".bp" 
+  - ".src" 
+  - ".pkg" 
+  - ".vw" 
+  - ".dd" 
+  - ".def" 
+  - ".fd" 
+  - ".sl" 
+  - ".dr" 
+  ace_mode: text
+  language_id: 432
 DataWeave:
   type: programming
   color: "#003a52"
